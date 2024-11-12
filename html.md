@@ -1,6 +1,6 @@
 category: html
 title: html basic
-lectures: Lee
+lectures: Kwang
 related:
 -css
 -javascript

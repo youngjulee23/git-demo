@@ -1,5 +1,5 @@
 category: java
-title: java basic
+title: java advanced
 lectures: Hong
 related:
 -spring
