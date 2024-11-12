@@ -1,6 +1,6 @@
 category: java
 title: java level2
-lectures: Hong
+lectures: Kang
 related:
 -spring
 -jMVC
