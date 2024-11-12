@@ -7,3 +7,4 @@ related:
 -class
 -node.js
 -springboot
+-exception
