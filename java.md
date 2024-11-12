@@ -1,5 +1,5 @@
 category: java
-lectures: Lim
+lectures: Hong
 related:
 -spring
 -jMVC
